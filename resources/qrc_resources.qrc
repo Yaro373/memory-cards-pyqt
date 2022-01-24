@@ -1,0 +1,16 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>icons/add_image.svg</file>
+        <file>icons/bold_text.svg</file>
+        <file>icons/italic_text.svg</file>
+        <file>icons/underlined_text.svg</file>
+        <file>icons/settings.svg</file>
+        <file>icons/correction.svg</file>
+        <file>icons/start.svg</file>
+        <file>icons/delete.svg</file>
+        <file>icons/cards.svg</file>
+        <file>icons/go_back.svg</file>
+        <file>icons/stats.svg</file>
+    </qresource>
+</RCC>
